@@ -250,6 +250,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [Hacker Paradise](http://www.hackerparadise.org/) - traveling hackers
 - [#nomads](http://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee
 - [Nomadler](http://nomadler.com) - Hacker News for nomads.
+- [The Coffice](http://www.thecoffice.biz) - Growing community for digital (and other) nomads to find Coffices (coffee shop + office = Coffice) to work from
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
